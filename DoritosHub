@@ -1552,7 +1552,7 @@ local Wait = library.subs.Wait
 local PepsisWorld = library:CreateWindow({
    Name = "Doritos HubV2.01",
    Themeable = {
-   Info = "Discord Server: AA"
+   Info = "Discord Server: N/A não tenho 😂"
    }
 })
 
